@@ -7,3 +7,7 @@ print("Divisible by 5")
 
 # use a list
 number_list = list(numbers)
+
+# use a for loop
+for divisible in number_list:
+    

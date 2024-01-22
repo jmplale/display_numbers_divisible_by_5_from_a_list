@@ -10,4 +10,6 @@ number_list = list(numbers)
 
 # use a for loop
 for divisible in number_list:
-    
+    # use an if statement
+    if divisible % 5 == 0:
+        print(divisible)
